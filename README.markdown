@@ -1,4 +1,4 @@
-Learn ruby: First application
+Learn ruby: First application change again
 
 == Welcome to Rails
 
